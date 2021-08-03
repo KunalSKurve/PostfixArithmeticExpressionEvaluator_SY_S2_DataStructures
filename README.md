@@ -1,4 +1,4 @@
-# PostfixArithmeticExpressionEvaluator_SY
+# Postfix Arithmetic Expression Evaluator made using Stack Data Structure
 
 PROJECT STATEMENT :    Arithmetic Expression Evaluator is a project built keeping in mind to solve the difficulty we face while solving complex postfix expressions which even a scientific calculator cannot solve.   
 
